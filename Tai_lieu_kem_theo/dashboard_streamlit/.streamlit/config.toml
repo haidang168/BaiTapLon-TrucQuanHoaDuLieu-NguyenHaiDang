@@ -1,0 +1,18 @@
+[server]
+headless = true
+showEmailPrompt = false
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#377ac3"
+backgroundColor = "#f5f7fb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#152d4b"
+font = "sans serif"
